@@ -1,4 +1,4 @@
-package com.polarbookshop.order_service;
+package com.polarbookshop.orderservice;
 
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection;

@@ -1,6 +1,8 @@
-package com.polarbookshop.order_service;
+package com.polarbookshop.orderservice;
 
 import org.springframework.boot.SpringApplication;
+
+import com.polarbookshop.orderservice.OrderServiceApplication;
 
 public class TestOrderServiceApplication {
 
